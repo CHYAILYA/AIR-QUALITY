@@ -1,0 +1,1410 @@
+ERROR - 2025-07-20 00:56:37 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 00:56:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 02:19:44 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 02:19:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 02:22:02 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 02:22:02 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 02:22:02 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 02:22:02 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 05:29:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".;"
+[Method: POST, Route: mifs/.;/services/LogService]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 07:48:01 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 07:48:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 07:55:13 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 07:55:13 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 10:22:48 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 10:26:02 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:26:02 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:26:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:26:16 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:26:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:26:31 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:26:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:26:46 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:27:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:27:01 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:27:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:27:16 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:27:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:27:31 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:27:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:27:46 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:28:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:28:01 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:28:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:28:16 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:28:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:28:31 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:28:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:28:47 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:29:02 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:29:02 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:29:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:29:17 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:29:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:29:31 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:29:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:29:46 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 10:30:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 10:30:01 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:17 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:17 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:19 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:19 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:20 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:20 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:20 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:21 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:21 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:23 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:23 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:24 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:24 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:24 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:25 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:25 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:26 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:26 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:26 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:26 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:26 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:26 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:27 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:27 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:27 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:27 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:28 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:28 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:28 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:28 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:28 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:28 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:29 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:29 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:30 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:30 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:30 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:32 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:33 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:33 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:34 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:46 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:00:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:00:46 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:01:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:01:21 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:01:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:01:21 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:01:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:01:25 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:01:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 11:01:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:01:53 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:02:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:02:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:52 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:52 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:52 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:52 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:53 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:54 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:54 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:55 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:55 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:03:55 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:03:55 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:04:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:04:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:04:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:04:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:04:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:04:37 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:04:52 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:04:52 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:05:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:05:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:05:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:05:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:05:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:05:37 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:05:52 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:05:52 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:06:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:06:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:06:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:06:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:06:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:06:37 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:06:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:06:53 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:07:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:07:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:07:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:07:25 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:04 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:04 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:05 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:05 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:05 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:05 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:06 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:06 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:07 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:08 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:08 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:08 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:08 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:09 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:09 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:09 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:09 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:10 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:10 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:11 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:11 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:36 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:17:49 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:17:49 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:18:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:18:04 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:18:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:18:16 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:18:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:18:30 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:18:45 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:18:45 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:19:00 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:19:00 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:19:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:19:15 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:19:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:19:31 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:19:45 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:19:45 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:20:00 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:20:00 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:20:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:20:16 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 11:20:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 11:20:30 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:18 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:18 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:20 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:21 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:21 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:22 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 12:12:23 --> Error: Call to undefined method App\Controllers\Home::respond()
+[Method: GET, Route: recommendation/get]
+in APPPATH/Controllers/Home.php on line 96.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->getRecommendation()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 12:12:40 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 12:12:41 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 12:13:31 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 12:13:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 14:08:31 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 14:08:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 14:36:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(230): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 14:37:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(230): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 16:46:29 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:30 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:32 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:32 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 16:46:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:27:07 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:27:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 17:48:08 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "c ​100.php"
+[Method: GET, Route: c%20%E2%80%8B100.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:48:09 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "changeall.php ​"
+[Method: GET, Route: changeall.php%20%E2%80%8B]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:48:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "changeall.ph​p​"
+[Method: GET, Route: changeall.ph%E2%80%8Bp%E2%80%8B]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:48:10 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "config. ​ php"
+[Method: GET, Route: config.%20%E2%80%8B%20php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:48:11 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "config.​​php"
+[Method: GET, Route: config.%E2%80%8B%E2%80%8Bphp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:48:15 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "c​​100.php"
+[Method: GET, Route: c%E2%80%8B%E2%80%8B100.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:48:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "gaza.ph​p"
+[Method: GET, Route: gaza.ph%E2%80%8Bp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:49:24 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "images​"
+[Method: GET, Route: images%E2%80%8B/c99.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:49:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "images​​"
+[Method: GET, Route: images%E2%80%8B%E2%80%8B/c99.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:50:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "madspotshell.php ​"
+[Method: GET, Route: madspotshell.php%20%E2%80%8B]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:50:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "madspotshe​ll.php"
+[Method: GET, Route: madspotshe%E2%80%8Bll.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:50:35 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "r00t ​ .php"
+[Method: GET, Route: r00t%20%E2%80%8B%20.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:50:36 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "r0​0t​.php"
+[Method: GET, Route: r0%E2%80%8B0t%E2%80%8B.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:50:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "sniper.p ​ hp"
+[Method: GET, Route: sniper.p%20%E2%80%8B%20hp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:50:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "sni​per.p​hp"
+[Method: GET, Route: sni%E2%80%8Bper.p%E2%80%8Bhp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-20 17:53:55 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:53:55 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:54:00 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:54:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:54:31 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-20 17:54:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-20 17:55:18 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "xxx.p​hp​"
+[Method: GET, Route: xxx.p%E2%80%8Bhp%E2%80%8B]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:55:19 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "​1.php"
+[Method: GET, Route: %E2%80%8B1.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-20 17:55:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "​c100.php"
+[Method: GET, Route: %E2%80%8Bc100.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

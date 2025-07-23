@@ -1,0 +1,2544 @@
+{
+  "id": "5b7a94b96a15c1ae2d8a9a2b",
+  "measurements": {
+    "hourly": [
+      {
+        "ts": "2025-04-16T10:00:00.000Z",
+        "aqi": 79,
+        "pm25": {
+          "aqi": 79,
+          "concentration": 24
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.9
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2008.4
+        }
+      },
+      {
+        "ts": "2025-04-16T11:00:00.000Z",
+        "aqi": 105,
+        "pm25": {
+          "aqi": 105,
+          "concentration": 37
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.9
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2010.4
+        }
+      },
+      {
+        "ts": "2025-04-16T12:00:00.000Z",
+        "aqi": 117,
+        "pm25": {
+          "aqi": 117,
+          "concentration": 42
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.7
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2016
+        }
+      },
+      {
+        "ts": "2025-04-16T13:00:00.000Z",
+        "aqi": 127,
+        "pm25": {
+          "aqi": 127,
+          "concentration": 46
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2020.8
+        }
+      },
+      {
+        "ts": "2025-04-16T14:00:00.000Z",
+        "aqi": 117,
+        "pm25": {
+          "aqi": 117,
+          "concentration": 42
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2020.9
+        }
+      },
+      {
+        "ts": "2025-04-16T15:00:00.000Z",
+        "aqi": 155,
+        "pm25": {
+          "aqi": 155,
+          "concentration": 61
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45.2
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2020.6
+        }
+      },
+      {
+        "ts": "2025-04-16T16:00:00.000Z",
+        "aqi": 142,
+        "pm25": {
+          "aqi": 142,
+          "concentration": 52
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45.3
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2018
+        }
+      },
+      {
+        "ts": "2025-04-16T17:00:00.000Z",
+        "aqi": 147,
+        "pm25": {
+          "aqi": 147,
+          "concentration": 54
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45.4
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2012.5
+        }
+      },
+      {
+        "ts": "2025-04-16T18:00:00.000Z",
+        "aqi": 124,
+        "pm25": {
+          "aqi": 124,
+          "concentration": 45
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45.4
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 2002.4
+        }
+      },
+      {
+        "ts": "2025-04-16T19:00:00.000Z",
+        "aqi": 99,
+        "pm25": {
+          "aqi": 99,
+          "concentration": 35
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1991.5
+        }
+      },
+      {
+        "ts": "2025-04-16T20:00:00.000Z",
+        "aqi": 86,
+        "pm25": {
+          "aqi": 86,
+          "concentration": 28
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.1
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1982.9
+        }
+      },
+      {
+        "ts": "2025-04-16T21:00:00.000Z",
+        "aqi": 86,
+        "pm25": {
+          "aqi": 86,
+          "concentration": 28
+        },
+        "pm10": {
+          "aqi": 40,
+          "concentration": 43.4
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1976.8
+        }
+      },
+      {
+        "ts": "2025-04-16T22:00:00.000Z",
+        "aqi": 86,
+        "pm25": {
+          "aqi": 86,
+          "concentration": 28
+        },
+        "pm10": {
+          "aqi": 39,
+          "concentration": 42.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1970.4
+        }
+      },
+      {
+        "ts": "2025-04-16T23:00:00.000Z",
+        "aqi": 112,
+        "pm25": {
+          "aqi": 112,
+          "concentration": 40
+        },
+        "pm10": {
+          "aqi": 38,
+          "concentration": 41.9
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1962.7
+        }
+      },
+      {
+        "ts": "2025-04-17T00:00:00.000Z",
+        "aqi": 122,
+        "pm25": {
+          "aqi": 122,
+          "concentration": 44
+        },
+        "pm10": {
+          "aqi": 38,
+          "concentration": 41.2
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.6
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1962.2
+        }
+      },
+      {
+        "ts": "2025-04-17T01:00:00.000Z",
+        "aqi": 112,
+        "pm25": {
+          "aqi": 112,
+          "concentration": 40
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 41
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.6
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1965.8
+        }
+      },
+      {
+        "ts": "2025-04-17T02:00:00.000Z",
+        "aqi": 132,
+        "pm25": {
+          "aqi": 132,
+          "concentration": 48
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.6
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1969.5
+        }
+      },
+      {
+        "ts": "2025-04-17T03:00:00.000Z",
+        "aqi": 149,
+        "pm25": {
+          "aqi": 149,
+          "concentration": 55
+        },
+        "pm10": {
+          "aqi": 35,
+          "concentration": 38.4
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.6
+        },
+        "no2": {
+          "aqi": 4,
+          "concentration": 7.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1978.4
+        }
+      },
+      {
+        "ts": "2025-04-17T04:00:00.000Z",
+        "aqi": 156,
+        "pm25": {
+          "aqi": 156,
+          "concentration": 62
+        },
+        "pm10": {
+          "aqi": 36,
+          "concentration": 39.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.7
+        },
+        "no2": {
+          "aqi": 4,
+          "concentration": 7.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1991.7
+        }
+      },
+      {
+        "ts": "2025-04-17T05:00:00.000Z",
+        "aqi": 142,
+        "pm25": {
+          "aqi": 142,
+          "concentration": 52
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40.6
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.2
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2007.2
+        }
+      },
+      {
+        "ts": "2025-04-17T06:00:00.000Z",
+        "aqi": 132,
+        "pm25": {
+          "aqi": 132,
+          "concentration": 48
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40.6
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.7
+        },
+        "no2": {
+          "aqi": 4,
+          "concentration": 7.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2016.4
+        }
+      },
+      {
+        "ts": "2025-04-17T07:00:00.000Z",
+        "aqi": 124,
+        "pm25": {
+          "aqi": 124,
+          "concentration": 45
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40.4
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.6
+        },
+        "no2": {
+          "aqi": 4,
+          "concentration": 7.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2022.9
+        }
+      },
+      {
+        "ts": "2025-04-17T08:00:00.000Z",
+        "aqi": 120,
+        "pm25": {
+          "aqi": 120,
+          "concentration": 43.2
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 20.3
+        },
+        "no2": {
+          "aqi": 4,
+          "concentration": 7.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2025.6
+        }
+      },
+      {
+        "ts": "2025-04-17T09:00:00.000Z",
+        "aqi": 113,
+        "pm25": {
+          "aqi": 113,
+          "concentration": 40.2
+        },
+        "pm10": {
+          "aqi": 36,
+          "concentration": 39.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 19.2
+        },
+        "no2": {
+          "aqi": 3,
+          "concentration": 6.8
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2026.5
+        }
+      },
+      {
+        "ts": "2025-04-17T10:00:00.000Z",
+        "aqi": 104,
+        "pm25": {
+          "aqi": 104,
+          "concentration": 36.8
+        },
+        "pm10": {
+          "aqi": 36,
+          "concentration": 39.8
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.2
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.4
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2028.4
+        }
+      },
+      {
+        "ts": "2025-04-17T11:00:00.000Z",
+        "aqi": 106,
+        "pm25": {
+          "aqi": 106,
+          "concentration": 37.7
+        },
+        "pm10": {
+          "aqi": 36,
+          "concentration": 39.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.3
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.4
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2039.3
+        }
+      },
+      {
+        "ts": "2025-04-17T12:00:00.000Z",
+        "aqi": 111,
+        "pm25": {
+          "aqi": 111,
+          "concentration": 39.7
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.4
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2046.9
+        }
+      },
+      {
+        "ts": "2025-04-17T13:00:00.000Z",
+        "aqi": 111,
+        "pm25": {
+          "aqi": 111,
+          "concentration": 39.4
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40.5
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2055.7
+        }
+      },
+      {
+        "ts": "2025-04-17T14:00:00.000Z",
+        "aqi": 113,
+        "pm25": {
+          "aqi": 113,
+          "concentration": 40.2
+        },
+        "pm10": {
+          "aqi": 39,
+          "concentration": 42
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.5
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2069
+        }
+      },
+      {
+        "ts": "2025-04-17T15:00:00.000Z",
+        "aqi": 117,
+        "pm25": {
+          "aqi": 117,
+          "concentration": 41.8
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.6
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2085.7
+        }
+      },
+      {
+        "ts": "2025-04-17T16:00:00.000Z",
+        "aqi": 172,
+        "pm25": {
+          "aqi": 172,
+          "concentration": 85.1
+        },
+        "pm10": {
+          "aqi": 44,
+          "concentration": 47.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.6
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2107.6
+        }
+      },
+      {
+        "ts": "2025-04-17T17:00:00.000Z",
+        "aqi": 144,
+        "pm25": {
+          "aqi": 144,
+          "concentration": 52.9
+        },
+        "pm10": {
+          "aqi": 43,
+          "concentration": 46.2
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2126.6
+        }
+      },
+      {
+        "ts": "2025-04-17T18:00:00.000Z",
+        "aqi": 148,
+        "pm25": {
+          "aqi": 148,
+          "concentration": 54.4
+        },
+        "pm10": {
+          "aqi": 44,
+          "concentration": 47.4
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2145.4
+        }
+      },
+      {
+        "ts": "2025-04-17T19:00:00.000Z",
+        "aqi": 152,
+        "pm25": {
+          "aqi": 152,
+          "concentration": 56.8
+        },
+        "pm10": {
+          "aqi": 45,
+          "concentration": 49
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2165.4
+        }
+      },
+      {
+        "ts": "2025-04-17T20:00:00.000Z",
+        "aqi": 154,
+        "pm25": {
+          "aqi": 154,
+          "concentration": 60.1
+        },
+        "pm10": {
+          "aqi": 46,
+          "concentration": 50.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2177.5
+        }
+      },
+      {
+        "ts": "2025-04-17T21:00:00.000Z",
+        "aqi": 157,
+        "pm25": {
+          "aqi": 157,
+          "concentration": 63.6
+        },
+        "pm10": {
+          "aqi": 48,
+          "concentration": 52.7
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2186.7
+        }
+      },
+      {
+        "ts": "2025-04-17T22:00:00.000Z",
+        "aqi": 159,
+        "pm25": {
+          "aqi": 159,
+          "concentration": 66.6
+        },
+        "pm10": {
+          "aqi": 50,
+          "concentration": 54.4
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2195.8
+        }
+      },
+      {
+        "ts": "2025-04-17T23:00:00.000Z",
+        "aqi": 160,
+        "pm25": {
+          "aqi": 160,
+          "concentration": 68.2
+        },
+        "pm10": {
+          "aqi": 51,
+          "concentration": 55.4
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2204.1
+        }
+      },
+      {
+        "ts": "2025-04-18T00:00:00.000Z",
+        "aqi": 154,
+        "pm25": {
+          "aqi": 154,
+          "concentration": 60.5
+        },
+        "pm10": {
+          "aqi": 51,
+          "concentration": 56.1
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2201.8
+        }
+      },
+      {
+        "ts": "2025-04-18T01:00:00.000Z",
+        "aqi": 134,
+        "pm25": {
+          "aqi": 134,
+          "concentration": 48.7
+        },
+        "pm10": {
+          "aqi": 51,
+          "concentration": 56
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2190.4
+        }
+      },
+      {
+        "ts": "2025-04-18T02:00:00.000Z",
+        "aqi": 109,
+        "pm25": {
+          "aqi": 109,
+          "concentration": 38.7
+        },
+        "pm10": {
+          "aqi": 51,
+          "concentration": 55
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2178.4
+        }
+      },
+      {
+        "ts": "2025-04-18T03:00:00.000Z",
+        "aqi": 136,
+        "pm25": {
+          "aqi": 136,
+          "concentration": 49.8
+        },
+        "pm10": {
+          "aqi": 48,
+          "concentration": 52.7
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2159.7
+        }
+      },
+      {
+        "ts": "2025-04-18T04:00:00.000Z",
+        "aqi": 104,
+        "pm25": {
+          "aqi": 104,
+          "concentration": 36.7
+        },
+        "pm10": {
+          "aqi": 46,
+          "concentration": 50.3
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.6
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2137.6
+        }
+      },
+      {
+        "ts": "2025-04-18T05:00:00.000Z",
+        "aqi": 92,
+        "pm25": {
+          "aqi": 92,
+          "concentration": 31
+        },
+        "pm10": {
+          "aqi": 44,
+          "concentration": 48.6
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2114.7
+        }
+      },
+      {
+        "ts": "2025-04-18T06:00:00.000Z",
+        "aqi": 88,
+        "pm25": {
+          "aqi": 88,
+          "concentration": 29
+        },
+        "pm10": {
+          "aqi": 44,
+          "concentration": 47.2
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 18
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2092.6
+        }
+      },
+      {
+        "ts": "2025-04-18T07:00:00.000Z",
+        "aqi": 107,
+        "pm25": {
+          "aqi": 107,
+          "concentration": 38.1
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 18
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2075.8
+        }
+      },
+      {
+        "ts": "2025-04-18T08:00:00.000Z",
+        "aqi": 105,
+        "pm25": {
+          "aqi": 105,
+          "concentration": 37
+        },
+        "pm10": {
+          "aqi": 42,
+          "concentration": 45
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.4
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2062.9
+        }
+      },
+      {
+        "ts": "2025-04-18T09:00:00.000Z",
+        "aqi": 120,
+        "pm25": {
+          "aqi": 120,
+          "concentration": 43.4
+        },
+        "pm10": {
+          "aqi": 41,
+          "concentration": 44.6
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.7
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.4
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2055.7
+        }
+      }
+    ],
+    "daily": [
+      {
+        "ts": "2025-03-19T00:00:00.000Z"
+      },
+      {
+        "pressure": 1011,
+        "humidity": 61,
+        "wind": {
+          "speed": 18,
+          "direction": 302
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 31,
+          "min": 24
+        },
+        "ts": "2025-03-20T00:00:00.000Z",
+        "aqi": 70,
+        "pm25": {
+          "aqi": 70,
+          "concentration": 19.4
+        },
+        "pm10": {
+          "aqi": 29,
+          "concentration": 31.8
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 12.7
+        },
+        "no2": {
+          "aqi": 16,
+          "concentration": 32.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 47.1
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1914.7
+        }
+      },
+      {
+        "pressure": 1011,
+        "humidity": 58,
+        "wind": {
+          "speed": 18,
+          "direction": 306
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 31,
+          "min": 24
+        },
+        "ts": "2025-03-21T00:00:00.000Z",
+        "aqi": 75,
+        "pm25": {
+          "aqi": 75,
+          "concentration": 22
+        },
+        "pm10": {
+          "aqi": 31,
+          "concentration": 34.4
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 12.9
+        },
+        "no2": {
+          "aqi": 15,
+          "concentration": 31.7
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49.4
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1995.6
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 56,
+        "wind": {
+          "speed": 25.2,
+          "direction": 270
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 25
+        },
+        "ts": "2025-03-22T00:00:00.000Z",
+        "aqi": 91,
+        "pm25": {
+          "aqi": 91,
+          "concentration": 30.7
+        },
+        "pm10": {
+          "aqi": 50,
+          "concentration": 54.1
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 13.2
+        },
+        "no2": {
+          "aqi": 15,
+          "concentration": 30.9
+        },
+        "so2": {
+          "aqi": 27,
+          "concentration": 51.9
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2135.4
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 60,
+        "wind": {
+          "speed": 18,
+          "direction": 250
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 31,
+          "min": 25
+        },
+        "ts": "2025-03-23T00:00:00.000Z",
+        "aqi": 75,
+        "pm25": {
+          "aqi": 75,
+          "concentration": 22
+        },
+        "pm10": {
+          "aqi": 35,
+          "concentration": 38.2
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 12.6
+        },
+        "no2": {
+          "aqi": 15,
+          "concentration": 31
+        },
+        "so2": {
+          "aqi": 30,
+          "concentration": 56.7
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2095.3
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 61,
+        "wind": {
+          "speed": 18,
+          "direction": 236
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 31,
+          "min": 26
+        },
+        "ts": "2025-03-24T00:00:00.000Z",
+        "aqi": 78,
+        "pm25": {
+          "aqi": 78,
+          "concentration": 23.5
+        },
+        "pm10": {
+          "aqi": 34,
+          "concentration": 37.6
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 12.8
+        },
+        "no2": {
+          "aqi": 15,
+          "concentration": 30.9
+        },
+        "so2": {
+          "aqi": 33,
+          "concentration": 62.5
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1978.3
+        }
+      },
+      {
+        "pressure": 1008,
+        "humidity": 64,
+        "wind": {
+          "speed": 18,
+          "direction": 332
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 31,
+          "min": 25
+        },
+        "ts": "2025-03-25T00:00:00.000Z",
+        "aqi": 78,
+        "pm25": {
+          "aqi": 78,
+          "concentration": 23.8
+        },
+        "pm10": {
+          "aqi": 40,
+          "concentration": 43.2
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 12.7
+        },
+        "no2": {
+          "aqi": 15,
+          "concentration": 30.3
+        },
+        "so2": {
+          "aqi": 33,
+          "concentration": 62.2
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1949.6
+        }
+      },
+      {
+        "pressure": 1006,
+        "humidity": 71,
+        "wind": {
+          "speed": 18,
+          "direction": 259
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 27
+        },
+        "ts": "2025-03-26T00:00:00.000Z",
+        "aqi": 94,
+        "pm25": {
+          "aqi": 94,
+          "concentration": 32.2
+        },
+        "pm10": {
+          "aqi": 49,
+          "concentration": 53.9
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 12.7
+        },
+        "no2": {
+          "aqi": 15,
+          "concentration": 30.7
+        },
+        "so2": {
+          "aqi": 31,
+          "concentration": 60
+        },
+        "co": {
+          "aqi": 22,
+          "concentration": 2222
+        }
+      },
+      {
+        "pressure": 1006,
+        "humidity": 73,
+        "wind": {
+          "speed": 14.4,
+          "direction": 340
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 27
+        },
+        "ts": "2025-03-27T00:00:00.000Z",
+        "aqi": 89,
+        "pm25": {
+          "aqi": 89,
+          "concentration": 29.6
+        },
+        "pm10": {
+          "aqi": 47,
+          "concentration": 51.3
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 13.3
+        },
+        "no2": {
+          "aqi": 14,
+          "concentration": 29.3
+        },
+        "so2": {
+          "aqi": 34,
+          "concentration": 64.8
+        },
+        "co": {
+          "aqi": 22,
+          "concentration": 2253.5
+        }
+      },
+      {
+        "pressure": 1007,
+        "humidity": 74,
+        "wind": {
+          "speed": 25.2,
+          "direction": 247
+        },
+        "icon": "scattered-clouds",
+        "condition": "Awan tersebar",
+        "temperature": {
+          "max": 32,
+          "min": 27
+        },
+        "ts": "2025-03-28T00:00:00.000Z",
+        "aqi": 54,
+        "pm25": {
+          "aqi": 54,
+          "concentration": 10.7
+        },
+        "pm10": {
+          "aqi": 29,
+          "concentration": 31
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 19.9
+        },
+        "no2": {
+          "aqi": 14,
+          "concentration": 28.2
+        },
+        "so2": {
+          "aqi": 29,
+          "concentration": 52.9
+        },
+        "co": {
+          "aqi": 18,
+          "concentration": 1855.1
+        }
+      },
+      {
+        "pressure": 1008,
+        "humidity": 63,
+        "wind": {
+          "speed": 25.2,
+          "direction": 226
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 29,
+          "min": 26
+        },
+        "ts": "2025-03-29T00:00:00.000Z",
+        "aqi": 29,
+        "pm25": {
+          "aqi": 29,
+          "concentration": 5.3
+        },
+        "pm10": {
+          "aqi": 21,
+          "concentration": 23.1
+        },
+        "o3": {
+          "aqi": 9,
+          "concentration": 23.2
+        },
+        "no2": {
+          "aqi": 13,
+          "concentration": 28
+        },
+        "so2": {
+          "aqi": 24,
+          "concentration": 44.5
+        },
+        "co": {
+          "aqi": 14,
+          "concentration": 1442.8
+        }
+      },
+      {
+        "pressure": 1008,
+        "humidity": 59,
+        "wind": {
+          "speed": 25.2,
+          "direction": 262
+        },
+        "icon": "scattered-clouds",
+        "condition": "Awan pecah",
+        "temperature": {
+          "max": 35,
+          "min": 26
+        },
+        "ts": "2025-03-30T00:00:00.000Z",
+        "aqi": 41,
+        "pm25": {
+          "aqi": 41,
+          "concentration": 7.3
+        },
+        "pm10": {
+          "aqi": 21,
+          "concentration": 23.3
+        },
+        "o3": {
+          "aqi": 9,
+          "concentration": 22.5
+        },
+        "no2": {
+          "aqi": 14,
+          "concentration": 28.5
+        },
+        "so2": {
+          "aqi": 21,
+          "concentration": 40.3
+        },
+        "co": {
+          "aqi": 13,
+          "concentration": 1310.5
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 50,
+        "wind": {
+          "speed": 25.2,
+          "direction": 256
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 35,
+          "min": 26
+        },
+        "ts": "2025-03-31T00:00:00.000Z",
+        "aqi": 35,
+        "pm25": {
+          "aqi": 35,
+          "concentration": 6.3
+        },
+        "pm10": {
+          "aqi": 18,
+          "concentration": 19.8
+        },
+        "o3": {
+          "aqi": 9,
+          "concentration": 23.2
+        },
+        "no2": {
+          "aqi": 13,
+          "concentration": 27.9
+        },
+        "so2": {
+          "aqi": 20,
+          "concentration": 39
+        },
+        "co": {
+          "aqi": 13,
+          "concentration": 1384
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 68,
+        "wind": {
+          "speed": 18,
+          "direction": 262
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 25
+        },
+        "ts": "2025-04-01T00:00:00.000Z",
+        "aqi": 52,
+        "pm25": {
+          "aqi": 52,
+          "concentration": 9.8
+        },
+        "pm10": {
+          "aqi": 21,
+          "concentration": 23.7
+        },
+        "o3": {
+          "aqi": 9,
+          "concentration": 22.5
+        },
+        "no2": {
+          "aqi": 14,
+          "concentration": 28.3
+        },
+        "so2": {
+          "aqi": 21,
+          "concentration": 39.8
+        },
+        "co": {
+          "aqi": 15,
+          "concentration": 1518.4
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 60,
+        "wind": {
+          "speed": 18,
+          "direction": 248
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 30,
+          "min": 25
+        },
+        "ts": "2025-04-02T00:00:00.000Z",
+        "aqi": 38,
+        "pm25": {
+          "aqi": 38,
+          "concentration": 6.9
+        },
+        "pm10": {
+          "aqi": 20,
+          "concentration": 22.6
+        },
+        "o3": {
+          "aqi": 9,
+          "concentration": 23.1
+        },
+        "no2": {
+          "aqi": 13,
+          "concentration": 27.6
+        },
+        "so2": {
+          "aqi": 21,
+          "concentration": 41.2
+        },
+        "co": {
+          "aqi": 16,
+          "concentration": 1629.9
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 68,
+        "wind": {
+          "speed": 14.4,
+          "direction": 255
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 26
+        },
+        "ts": "2025-04-03T00:00:00.000Z",
+        "aqi": 49,
+        "pm25": {
+          "aqi": 49,
+          "concentration": 8.8
+        },
+        "pm10": {
+          "aqi": 21,
+          "concentration": 23.1
+        },
+        "o3": {
+          "aqi": 9,
+          "concentration": 23.2
+        },
+        "no2": {
+          "aqi": 13,
+          "concentration": 28.1
+        },
+        "so2": {
+          "aqi": 21,
+          "concentration": 40.8
+        },
+        "co": {
+          "aqi": 17,
+          "concentration": 1714.7
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 61,
+        "wind": {
+          "speed": 14.4,
+          "direction": 254
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 34,
+          "min": 26
+        },
+        "ts": "2025-04-04T00:00:00.000Z",
+        "aqi": 67,
+        "pm25": {
+          "aqi": 67,
+          "concentration": 17.7
+        },
+        "pm10": {
+          "aqi": 28,
+          "concentration": 30.2
+        },
+        "o3": {
+          "aqi": 10,
+          "concentration": 23.3
+        },
+        "no2": {
+          "aqi": 14,
+          "concentration": 28.8
+        },
+        "so2": {
+          "aqi": 23,
+          "concentration": 43
+        },
+        "co": {
+          "aqi": 18,
+          "concentration": 1833.1
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 60,
+        "wind": {
+          "speed": 18,
+          "direction": 303
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 26
+        },
+        "ts": "2025-04-05T00:00:00.000Z",
+        "aqi": 82,
+        "pm25": {
+          "aqi": 82,
+          "concentration": 25.8
+        },
+        "pm10": {
+          "aqi": 37,
+          "concentration": 40.2
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 19.6
+        },
+        "no2": {
+          "aqi": 16,
+          "concentration": 33.2
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 48.5
+        },
+        "co": {
+          "aqi": 18,
+          "concentration": 1817.5
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 58,
+        "wind": {
+          "speed": 21.6,
+          "direction": 127
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 34,
+          "min": 24
+        },
+        "ts": "2025-04-06T00:00:00.000Z",
+        "aqi": 77,
+        "pm25": {
+          "aqi": 77,
+          "concentration": 22.8
+        },
+        "pm10": {
+          "aqi": 48,
+          "concentration": 52
+        },
+        "o3": {
+          "aqi": 3,
+          "concentration": 8.4
+        },
+        "no2": {
+          "aqi": 23,
+          "concentration": 46.3
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 47.5
+        },
+        "co": {
+          "aqi": 13,
+          "concentration": 1303.1
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 60,
+        "wind": {
+          "speed": 10.8,
+          "direction": 356
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 34,
+          "min": 26
+        },
+        "ts": "2025-04-07T00:00:00.000Z",
+        "aqi": 77,
+        "pm25": {
+          "aqi": 77,
+          "concentration": 22.8
+        },
+        "pm10": {
+          "aqi": 32,
+          "concentration": 35.8
+        },
+        "o3": {
+          "aqi": 4,
+          "concentration": 8.6
+        },
+        "no2": {
+          "aqi": 24,
+          "concentration": 47.8
+        },
+        "so2": {
+          "aqi": 21,
+          "concentration": 41.2
+        },
+        "co": {
+          "aqi": 13,
+          "concentration": 1341.9
+        }
+      },
+      {
+        "pressure": 1011,
+        "humidity": 57,
+        "wind": {
+          "speed": 14.4,
+          "direction": 16
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 27
+        },
+        "ts": "2025-04-08T00:00:00.000Z",
+        "aqi": 101,
+        "pm25": {
+          "aqi": 101,
+          "concentration": 35.5
+        },
+        "pm10": {
+          "aqi": 51,
+          "concentration": 55
+        },
+        "o3": {
+          "aqi": 4,
+          "concentration": 8.6
+        },
+        "no2": {
+          "aqi": 24,
+          "concentration": 48.3
+        },
+        "so2": {
+          "aqi": 24,
+          "concentration": 46
+        },
+        "co": {
+          "aqi": 14,
+          "concentration": 1414.5
+        }
+      },
+      {
+        "pressure": 1011,
+        "humidity": 59,
+        "wind": {
+          "speed": 18,
+          "direction": 17
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 27
+        },
+        "ts": "2025-04-09T00:00:00.000Z",
+        "aqi": 114,
+        "pm25": {
+          "aqi": 114,
+          "concentration": 40.9
+        },
+        "pm10": {
+          "aqi": 53,
+          "concentration": 59
+        },
+        "o3": {
+          "aqi": 5,
+          "concentration": 11.7
+        },
+        "no2": {
+          "aqi": 16,
+          "concentration": 33.8
+        },
+        "so2": {
+          "aqi": 24,
+          "concentration": 46.9
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1990.4
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 62,
+        "wind": {
+          "speed": 14.4,
+          "direction": 358
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 26
+        },
+        "ts": "2025-04-10T00:00:00.000Z",
+        "aqi": 127,
+        "pm25": {
+          "aqi": 127,
+          "concentration": 46.2
+        },
+        "pm10": {
+          "aqi": 59,
+          "concentration": 71.5
+        },
+        "o3": {
+          "aqi": 6,
+          "concentration": 14.3
+        },
+        "no2": {
+          "aqi": 16,
+          "concentration": 33.5
+        },
+        "so2": {
+          "aqi": 27,
+          "concentration": 50
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2182.7
+        }
+      },
+      {
+        "pressure": 1008,
+        "humidity": 61,
+        "wind": {
+          "speed": 14.4,
+          "direction": 347
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 26
+        },
+        "ts": "2025-04-11T00:00:00.000Z",
+        "aqi": 130,
+        "pm25": {
+          "aqi": 130,
+          "concentration": 47.4
+        },
+        "pm10": {
+          "aqi": 56,
+          "concentration": 66.3
+        },
+        "o3": {
+          "aqi": 6,
+          "concentration": 14.4
+        },
+        "no2": {
+          "aqi": 17,
+          "concentration": 34.8
+        },
+        "so2": {
+          "aqi": 27,
+          "concentration": 51.1
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2031.7
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 72,
+        "wind": {
+          "speed": 7.2,
+          "direction": 1
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 25
+        },
+        "ts": "2025-04-12T00:00:00.000Z",
+        "aqi": 107,
+        "pm25": {
+          "aqi": 107,
+          "concentration": 38
+        },
+        "pm10": {
+          "aqi": 57,
+          "concentration": 67.1
+        },
+        "o3": {
+          "aqi": 6,
+          "concentration": 14.1
+        },
+        "no2": {
+          "aqi": 17,
+          "concentration": 35.4
+        },
+        "so2": {
+          "aqi": 29,
+          "concentration": 52.3
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2168.1
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 66,
+        "wind": {
+          "speed": 25.2,
+          "direction": 220
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 24
+        },
+        "ts": "2025-04-13T00:00:00.000Z",
+        "aqi": 75,
+        "pm25": {
+          "aqi": 75,
+          "concentration": 22
+        },
+        "pm10": {
+          "aqi": 35,
+          "concentration": 38.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.3
+        },
+        "no2": {
+          "aqi": 8,
+          "concentration": 16.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49.2
+        },
+        "co": {
+          "aqi": 13,
+          "concentration": 1367.2
+        }
+      },
+      {
+        "pressure": 1009,
+        "humidity": 62,
+        "wind": {
+          "speed": 21.6,
+          "direction": 248
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 26
+        },
+        "ts": "2025-04-14T00:00:00.000Z",
+        "aqi": 70,
+        "pm25": {
+          "aqi": 70,
+          "concentration": 19.2
+        },
+        "pm10": {
+          "aqi": 22,
+          "concentration": 24.2
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 15,
+          "concentration": 1522.8
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 71,
+        "wind": {
+          "speed": 21.6,
+          "direction": 244
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 33,
+          "min": 24
+        },
+        "ts": "2025-04-15T00:00:00.000Z",
+        "aqi": 101,
+        "pm25": {
+          "aqi": 101,
+          "concentration": 35.7
+        },
+        "pm10": {
+          "aqi": 30,
+          "concentration": 32.4
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 16.9
+        },
+        "no2": {
+          "aqi": 5,
+          "concentration": 10.8
+        },
+        "so2": {
+          "aqi": 23,
+          "concentration": 42.6
+        },
+        "co": {
+          "aqi": 18,
+          "concentration": 1820.3
+        }
+      },
+      {
+        "pressure": 1008,
+        "humidity": 62,
+        "wind": {
+          "speed": 14.4,
+          "direction": 251
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 34,
+          "min": 26
+        },
+        "ts": "2025-04-16T00:00:00.000Z",
+        "aqi": 119,
+        "pm25": {
+          "aqi": 119,
+          "concentration": 42.8
+        },
+        "pm10": {
+          "aqi": 39,
+          "concentration": 42.8
+        },
+        "o3": {
+          "aqi": 8,
+          "concentration": 18.4
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.1
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 19,
+          "concentration": 1996.4
+        }
+      },
+      {
+        "pressure": 1010,
+        "humidity": 82,
+        "wind": {
+          "speed": 10.8,
+          "direction": 225
+        },
+        "icon": "rain",
+        "condition": "Hujan",
+        "temperature": {
+          "max": 32,
+          "min": 26
+        },
+        "ts": "2025-04-17T00:00:00.000Z",
+        "aqi": 139,
+        "pm25": {
+          "aqi": 139,
+          "concentration": 50.9
+        },
+        "pm10": {
+          "aqi": 40,
+          "concentration": 43.9
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 18.1
+        },
+        "no2": {
+          "aqi": 5,
+          "concentration": 11.2
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 20,
+          "concentration": 2066.8
+        }
+      },
+      {
+        "ts": "2025-04-18T00:00:00.000Z",
+        "aqi": 115,
+        "pm25": {
+          "aqi": 115,
+          "concentration": 41.3
+        },
+        "pm10": {
+          "aqi": 46,
+          "concentration": 50.1
+        },
+        "o3": {
+          "aqi": 7,
+          "concentration": 17.8
+        },
+        "no2": {
+          "aqi": 6,
+          "concentration": 12.5
+        },
+        "so2": {
+          "aqi": 26,
+          "concentration": 49
+        },
+        "co": {
+          "aqi": 21,
+          "concentration": 2127
+        }
+      }
+    ]
+  }
+}

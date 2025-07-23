@@ -1,0 +1,11 @@
+[0;1;31m●[0m flask-aqi.service - Flask AQI Service
+     Loaded: loaded (/etc/systemd/system/flask-aqi.service; enabled; vendor preset: enabled)
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Fri 2025-04-18 15:30:54 UTC; 3min 32s ago
+    Process: 349199 ExecStart=/var/www/udara/project-root/myenv/bin/python3 /var/www/udara/project-root/app.py # Gabungan path Python dan app.py [0;1;31m(code=exited, status=200/CHDIR)[0m
+   Main PID: 349199 (code=exited, status=200/CHDIR)
+
+Apr 18 15:30:54 ridwan systemd[1]: flask-aqi.service: Scheduled restart job, restart counter is at 6.
+Apr 18 15:30:54 ridwan systemd[1]: Stopped Flask AQI Service.
+Apr 18 15:30:54 ridwan systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mflask-aqi.service: Start request repeated too quickly.[0m
+Apr 18 15:30:54 ridwan systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mflask-aqi.service: Failed with result 'exit-code'.[0m
+Apr 18 15:30:54 ridwan systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Flask AQI Service.[0m

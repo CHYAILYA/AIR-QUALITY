@@ -1,0 +1,156 @@
+ERROR - 2025-06-02 00:32:59 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 00:33:00 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 00:33:01 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 00:33:02 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 01:35:13 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 01:35:13 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 01:35:13 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 01:35:13 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 01:35:13 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 01:35:13 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 01:35:13 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 01:35:13 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 04:02:31 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 04:02:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 04:20:49 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 04:20:49 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 05:58:05 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 05:58:06 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 05:58:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 05:58:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 07:12:09 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 07:12:10 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 07:55:01 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 07:55:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-02 07:58:15 --> Error: Class "App\Controllers\NotifikasiAirModel" not found
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 544.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->Notifikasiwagrub()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 07:59:15 --> Error: Call to undefined method App\Controllers\AuthController::respond()
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 555.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->Notifikasiwagrub()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 07:59:18 --> Error: Call to undefined method App\Controllers\AuthController::respond()
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 555.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->Notifikasiwagrub()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 07:59:27 --> Error: Call to undefined method App\Controllers\AuthController::respond()
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 555.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->Notifikasiwagrub()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 07:59:34 --> Error: Call to undefined method App\Controllers\AuthController::respond()
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 555.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->Notifikasiwagrub()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 08:00:37 --> ErrorException: Trait "App\Controllers\ResponseTrait" not found
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 9.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-06-02 08:00:40 --> ErrorException: Trait "App\Controllers\ResponseTrait" not found
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 9.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-06-02 08:01:03 --> Error: Call to undefined method App\Controllers\AuthController::respond()
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 555.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->Notifikasiwagrub()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 08:01:53 --> ErrorException: Trait "App\Controllers\ResponseTrait" not found
+[Method: POST, Route: notifikasi]
+in APPPATH/Controllers/AuthController.php on line 9.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2025-06-02 08:04:01 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 08:04:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 08:15:10 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 08:15:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-02 08:28:16 --> ErrorException: Undefined property: App\Controllers\AuthController::$model
+[Method: GET, Route: kirimDataair]
+in APPPATH/Controllers/AuthController.php on line 573.
+ 1 APPPATH/Controllers/AuthController.php(573): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->kirimDataair()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-02 08:29:51 --> ErrorException: Undefined property: App\Controllers\AuthController::$model
+[Method: GET, Route: kirimDataair]
+in APPPATH/Controllers/AuthController.php on line 574.
+ 1 APPPATH/Controllers/AuthController.php(574): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->kirimDataair()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-02 09:45:10 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 09:45:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 09:58:20 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 09:58:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 09:58:40 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 09:58:42 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 12:33:04 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 12:33:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 12:35:39 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 12:35:40 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 12:36:28 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 12:36:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 12:43:15 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 12:43:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 12:45:11 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 12:45:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 12:47:22 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 12:47:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 13:14:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 13:14:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 14:08:31 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 14:08:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 15:27:05 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 15:27:06 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 18:21:00 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 18:21:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 18:21:03 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 18:21:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 18:48:35 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 18:48:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 18:48:57 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 18:48:58 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 19:08:15 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 19:08:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 23:07:18 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 23:07:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 23:25:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 23:25:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 23:25:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 23:25:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-02 23:25:45 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-02 23:25:45 --> Gemini API Error: 22 : The requested URL returned error: 404 

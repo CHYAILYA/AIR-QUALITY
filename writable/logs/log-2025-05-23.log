@@ -1,0 +1,68 @@
+ERROR - 2025-05-23 00:39:31 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 00:39:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 00:39:33 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 00:39:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 00:40:38 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 00:40:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 00:45:47 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 00:45:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 02:04:24 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 02:04:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 03:21:04 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 03:21:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 03:21:33 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 03:21:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 03:34:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 03:34:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 03:34:39 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 03:34:40 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 06:24:08 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 06:24:09 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 07:00:26 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 07:00:26 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 08:04:24 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 08:04:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 11:29:10 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 11:29:10 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 11:29:10 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 11:29:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 11:29:11 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 11:29:11 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 11:29:12 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 11:29:13 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 12:09:13 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 12:09:14 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-05-23 12:09:14 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "verification;swagger-ui"
+[Method: GET, Route: dataSetParam/verification;swagger-ui]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-23 13:15:49 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 13:15:49 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 15:54:05 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 15:54:05 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 15:54:07 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 15:54:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 15:54:58 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 15:54:59 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 15:54:59 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 15:55:00 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-23 21:41:20 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 21:41:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-05-23 23:19:43 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "verification;swagger-ui"
+[Method: GET, Route: dataSetParam/verification;swagger-ui]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-23 23:19:44 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-23 23:19:45 --> Gemini API Error: 22 : The requested URL returned error: 404 

@@ -1,0 +1,126 @@
+ERROR - 2025-06-05 06:11:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 06:11:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 06:11:35 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 06:11:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 06:25:33 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 06:25:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 09:09:57 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 09:09:59 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 11:33:20 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 11:33:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 11:33:30 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 11:33:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-05 11:34:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(174): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-05 11:34:44 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 11:34:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 11:34:44 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 11:34:45 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-05 11:35:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(174): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-05 11:35:11 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 11:35:12 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 11:35:12 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 11:35:12 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 12:02:18 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 12:02:18 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 12:02:18 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 12:02:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 13:03:57 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 13:03:57 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 14:04:03 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 14:04:03 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 14:25:38 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 14:25:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 15:52:17 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 15:52:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 17:00:55 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 17:00:56 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 17:03:11 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 17:03:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-05 17:18:12 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "2xxRNAhYbbxDzx4pSCipSkhDDEy;.jsp"
+[Method: POST, Route: app/rest/users/id:1/tokens/2xxRNAhYbbxDzx4pSCipSkhDDEy;.jsp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-05 18:29:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "cmd,"
+[Method: POST, Route: cmd,/simZysh/register_main/setCookie]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-05 18:29:39 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 18:29:40 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 18:29:43 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 18:29:43 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-05 19:46:19 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..\src\getSettings.rsb"
+[Method: GET, Route: ui/..%5Csrc%5CgetSettings.rsb]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-05 20:05:53 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 20:05:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-05 20:19:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: POST, Route: npm-pwg/..;/npm-admin/login.do]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-05 20:45:52 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 20:45:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 22:11:24 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 22:11:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 22:11:25 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 22:11:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-05 22:20:01 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 22:20:02 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-06-05 22:43:02 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: GET, Route: npm-pwg/..;/axis2-AWC/services/listServices]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-05 23:44:36 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-06-05 23:44:36 --> Gemini API Error: 22 : The requested URL returned error: 404 

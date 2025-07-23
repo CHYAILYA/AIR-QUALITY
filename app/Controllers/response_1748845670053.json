@@ -1,0 +1,214 @@
+[
+  {
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "120363418510991359",
+        "_serialized": "120363418510991359@g.us"
+      },
+      "creation": 1748843729,
+      "owner": {
+        "server": "c.us",
+        "user": "6285966302755",
+        "_serialized": "6285966302755@c.us"
+      },
+      "subject": "Hidup jokowi",
+      "restrict": false,
+      "announce": false,
+      "noFrequentlyForwarded": false,
+      "ephemeralDuration": 0,
+      "membershipApprovalMode": false,
+      "memberAddMode": "all_member_add",
+      "reportToAdminMode": false,
+      "support": false,
+      "suspended": false,
+      "terminated": false,
+      "uniqueShortNameMap": {},
+      "isLidAddressingMode": false,
+      "isParentGroup": false,
+      "isParentGroupClosed": false,
+      "defaultSubgroup": false,
+      "generalSubgroup": false,
+      "hiddenSubgroup": false,
+      "groupSafetyCheck": false,
+      "generalChatAutoAddDisabled": false,
+      "allowNonAdminSubGroupCreation": false,
+      "lastReportToAdminTimestamp": null,
+      "incognito": false,
+      "hasCapi": false,
+      "participants": [
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6285810214687",
+            "_serialized": "6285810214687@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6285966302755",
+            "_serialized": "6285966302755@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": true
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6285966302756",
+            "_serialized": "6285966302756@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": false
+        }
+      ],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "id": {
+      "server": "g.us",
+      "user": "120363418510991359",
+      "_serialized": "120363418510991359@g.us"
+    },
+    "name": "Hidup jokowi",
+    "isGroup": true,
+    "isReadOnly": false,
+    "unreadCount": 0,
+    "timestamp": 1748843745,
+    "archived": false,
+    "pinned": false,
+    "isMuted": false,
+    "muteExpiration": 0,
+    "lastMessage": {
+      "_data": {
+        "id": {
+          "fromMe": true,
+          "remote": "120363418510991359@g.us",
+          "id": "2096794004",
+          "participant": {
+            "server": "c.us",
+            "user": "6285966302756",
+            "_serialized": "6285966302756@c.us"
+          },
+          "_serialized": "true_120363418510991359@g.us_2096794004_6285966302756@c.us"
+        },
+        "viewed": false,
+        "type": "gp2",
+        "subtype": "promote",
+        "t": 1748843756,
+        "notifyName": "",
+        "from": {
+          "server": "c.us",
+          "user": "6285966302756",
+          "_serialized": "6285966302756@c.us"
+        },
+        "to": {
+          "server": "g.us",
+          "user": "120363418510991359",
+          "_serialized": "120363418510991359@g.us"
+        },
+        "author": {
+          "server": "c.us",
+          "user": "6285966302755",
+          "_serialized": "6285966302755@c.us"
+        },
+        "ack": 0,
+        "invis": false,
+        "star": false,
+        "kicNotified": false,
+        "isFromTemplate": false,
+        "pollInvalidated": false,
+        "isSentCagPollCreation": false,
+        "latestEditMsgKey": null,
+        "latestEditSenderTimestampMs": null,
+        "recipients": [
+          {
+            "server": "c.us",
+            "user": "6285966302756",
+            "_serialized": "6285966302756@c.us"
+          }
+        ],
+        "mentionedJidList": [],
+        "groupMentions": [],
+        "isEventCanceled": false,
+        "eventInvalidated": false,
+        "isVcardOverMmsDocument": false,
+        "isForwarded": false,
+        "labels": [],
+        "hasReaction": false,
+        "viewMode": "VISIBLE",
+        "productHeaderImageRejected": false,
+        "lastPlaybackProgress": 0,
+        "isDynamicReplyButtonsMsg": false,
+        "isCarouselCard": false,
+        "parentMsgId": null,
+        "callSilenceReason": null,
+        "isVideoCall": false,
+        "callDuration": null,
+        "callCreator": null,
+        "callParticipants": null,
+        "isMdHistoryMsg": false,
+        "stickerSentTs": 0,
+        "isAvatar": false,
+        "lastUpdateFromServerTs": 0,
+        "invokedBotWid": null,
+        "botTargetSenderJid": null,
+        "bizBotType": null,
+        "botResponseTargetId": null,
+        "botPluginType": null,
+        "botPluginReferenceIndex": null,
+        "botPluginSearchProvider": null,
+        "botPluginSearchUrl": null,
+        "botPluginSearchQuery": null,
+        "botPluginMaybeParent": false,
+        "botReelPluginThumbnailCdnUrl": null,
+        "botMessageDisclaimerText": null,
+        "botMsgBodyType": null,
+        "reportingTokenInfo": null,
+        "requiresDirectConnection": false,
+        "bizContentPlaceholderType": null,
+        "hostedBizEncStateMismatch": false,
+        "senderOrRecipientAccountTypeHosted": false,
+        "placeholderCreatedWhenAccountIsHosted": false,
+        "links": []
+      },
+      "id": {
+        "fromMe": true,
+        "remote": "120363418510991359@g.us",
+        "id": "2096794004",
+        "participant": {
+          "server": "c.us",
+          "user": "6285966302756",
+          "_serialized": "6285966302756@c.us"
+        },
+        "_serialized": "true_120363418510991359@g.us_2096794004_6285966302756@c.us"
+      },
+      "ack": 0,
+      "hasMedia": false,
+      "body": "",
+      "type": "gp2",
+      "timestamp": 1748843756,
+      "from": "6285966302756@c.us",
+      "to": "120363418510991359@g.us",
+      "author": "6285966302755@c.us",
+      "deviceType": "web",
+      "isForwarded": false,
+      "forwardingScore": 0,
+      "isStatus": false,
+      "isStarred": false,
+      "fromMe": true,
+      "hasQuotedMsg": false,
+      "hasReaction": false,
+      "vCards": [],
+      "mentionedIds": [],
+      "groupMentions": [],
+      "isGif": false,
+      "links": []
+    }
+  }
+]

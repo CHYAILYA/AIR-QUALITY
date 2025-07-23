@@ -1,0 +1,69 @@
+ERROR - 2025-05-27 00:39:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:41:00 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:41:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:43:18 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:43:18 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:43:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:43:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:57:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 00:58:57 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-05-27 02:52:18 --> ParseError: syntax error, unexpected token "<", expecting "function" or "const"
+[Method: GET, Route: history]
+in APPPATH/Controllers/AuthController.php on line 473.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(885): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-27 03:18:43 --> Received Data: {"TDS_ppm":"150.5","Turbidity_NTU":"2.1","pH":"7.2","suhu":"25.8"}
+ERROR - 2025-05-27 03:47:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 04:24:43 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 04:24:43 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 04:24:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 04:24:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 05:15:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 06:17:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 10:50:43 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 10:50:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 10:50:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 10:50:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 13:02:30 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 13:02:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 13:59:56 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 13:59:56 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 15:02:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 15:02:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 15:14:06 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 15:14:06 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 17:49:35 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 17:49:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 17:54:29 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 17:54:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:03:31 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:03:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:29:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:29:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:29:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:29:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:29:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:29:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:29:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:29:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:29:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:29:54 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 19:29:55 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 19:29:55 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 20:23:15 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 20:23:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 20:26:57 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 20:26:57 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 22:02:30 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 22:02:30 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 22:11:25 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 22:11:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-27 23:26:38 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-27 23:26:40 --> Gemini API Error: 22 : The requested URL returned error: 404 

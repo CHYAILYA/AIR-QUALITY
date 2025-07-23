@@ -1,0 +1,47 @@
+ERROR - 2025-07-06 01:16:36 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 01:16:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 01:49:23 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 01:49:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:04:17 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:04:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:43:02 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:43:03 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-06 04:43:04 --> Error: Call to undefined method CodeIgniter\HTTP\CURLRequest::setBasicAuth()
+[Method: GET, Route: sendWaterQualityUpdate]
+in APPPATH/Controllers/AuthController.php on line 819.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->sendWaterQualityUpdate()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-06 04:50:55 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:50:56 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:51:36 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 04:51:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 06:34:51 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 06:34:51 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 07:17:46 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 07:17:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 07:25:03 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 07:25:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 07:55:16 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 07:55:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 08:01:15 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 08:01:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 10:47:31 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 10:47:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 11:45:42 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 11:45:42 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 14:20:22 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 14:20:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 15:18:35 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 15:18:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 16:03:10 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 16:03:11 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 21:27:33 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 21:27:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 23:35:24 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 23:35:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 23:35:25 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-06 23:35:26 --> Gemini API Error: 22 : The requested URL returned error: 404 

@@ -1,0 +1,44 @@
+ERROR - 2025-07-12 03:48:51 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 03:48:51 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 03:53:36 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 03:53:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 04:45:17 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 04:45:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 05:10:40 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 05:10:40 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 05:49:20 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 05:49:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 08:37:35 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 08:37:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 13:03:34 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 13:03:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 14:15:34 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 14:15:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:10:27 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:10:27 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:22:30 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:22:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:22:32 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:22:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:22:35 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 16:22:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:45 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:45 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:46 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:46 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:47 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 18:10:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 19:24:33 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-12 19:24:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-12 19:26:12 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "@.php"
+[Method: GET, Route: @.php]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

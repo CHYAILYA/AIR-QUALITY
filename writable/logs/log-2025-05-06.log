@@ -1,0 +1,229 @@
+ERROR - 2025-05-06 01:24:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 01:27:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 01:28:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 01:30:45 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 01:33:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 01:49:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 01:56:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 02:03:56 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 02:13:39 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 02:23:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 02:27:39 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 02:28:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 04:32:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 04:32:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-05-06 05:03:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(169): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-06 05:03:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 05:43:14 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 05:43:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 09:46:42 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 10:30:12 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 10:30:12 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 10:47:43 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 10:47:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 13:39:51 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 13:39:52 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 14:51:28 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 14:51:28 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 14:51:29 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 14:51:29 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 15:03:20 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 15:03:21 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 15:39:34 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 15:39:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 15:39:35 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 15:39:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 17:27:27 --> Received Data: {"TDS_ppm":"2801.1","Turbidity_NTU":"0","pH":"2.59"}
+ERROR - 2025-05-06 17:28:58 --> Received Data: {"TDS_ppm":"2771.2","Turbidity_NTU":"0","pH":"1.32"}
+ERROR - 2025-05-06 17:29:06 --> Received Data: {"TDS_ppm":"2754.7","Turbidity_NTU":"0","pH":"4.08"}
+ERROR - 2025-05-06 17:40:37 --> Received Data: {"TDS_ppm":"2779.7","Turbidity_NTU":"0","pH":"0.19"}
+ERROR - 2025-05-06 17:40:44 --> Received Data: {"TDS_ppm":"2773.7","Turbidity_NTU":"0","pH":"1.49"}
+ERROR - 2025-05-06 17:43:59 --> Received Data: {"TDS_ppm":"2802.4","Turbidity_NTU":"0","pH":"0.61"}
+ERROR - 2025-05-06 17:44:06 --> Received Data: {"TDS_ppm":"2799.3","Turbidity_NTU":"0","pH":"5.81"}
+ERROR - 2025-05-06 17:44:14 --> Received Data: {"TDS_ppm":"2791.7","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:44:21 --> Received Data: {"TDS_ppm":"2788.1","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:44:28 --> Received Data: {"TDS_ppm":"2786","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:44:36 --> Received Data: {"TDS_ppm":"2784.2","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:44:43 --> Received Data: {"TDS_ppm":"2785.8","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:44:50 --> Received Data: {"TDS_ppm":"2788","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:44:57 --> Received Data: {"TDS_ppm":"2789.2","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:05 --> Received Data: {"TDS_ppm":"2789.4","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:12 --> Received Data: {"TDS_ppm":"2789","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:19 --> Received Data: {"TDS_ppm":"2787.8","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:27 --> Received Data: {"TDS_ppm":"2786","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:34 --> Received Data: {"TDS_ppm":"2783.5","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:41 --> Received Data: {"TDS_ppm":"2781.9","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:48 --> Received Data: {"TDS_ppm":"2778.4","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:45:56 --> Received Data: {"TDS_ppm":"2782.8","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:46:03 --> Received Data: {"TDS_ppm":"2786.5","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:46:11 --> Received Data: {"TDS_ppm":"2783.5","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:46:18 --> Received Data: {"TDS_ppm":"2783.2","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:46:25 --> Received Data: {"TDS_ppm":"2777.9","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:46:33 --> Received Data: {"TDS_ppm":"2770.9","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:47:03 --> Received Data: {"TDS_ppm":"2784.2","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:47:11 --> Received Data: {"TDS_ppm":"2784.8","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:47:18 --> Received Data: {"TDS_ppm":"2784.2","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:47:25 --> Received Data: {"TDS_ppm":"2780.9","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:47:33 --> Received Data: {"TDS_ppm":"2777.5","Turbidity_NTU":"0","pH":"11.18"}
+ERROR - 2025-05-06 17:47:40 --> Received Data: {"TDS_ppm":"2776","Turbidity_NTU":"0","pH":"11.18"}
+ERROR - 2025-05-06 17:47:47 --> Received Data: {"TDS_ppm":"2779.8","Turbidity_NTU":"0","pH":"11.18"}
+ERROR - 2025-05-06 17:47:55 --> Received Data: {"TDS_ppm":"2779.5","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:02 --> Received Data: {"TDS_ppm":"2781.1","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:10 --> Received Data: {"TDS_ppm":"2780.2","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:17 --> Received Data: {"TDS_ppm":"2779.3","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:24 --> Received Data: {"TDS_ppm":"2770.3","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:31 --> Received Data: {"TDS_ppm":"2763.8","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:39 --> Received Data: {"TDS_ppm":"2766.8","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:46 --> Received Data: {"TDS_ppm":"2766.5","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:48:53 --> Received Data: {"TDS_ppm":"2762.3","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:49:01 --> Received Data: {"TDS_ppm":"2762.1","Turbidity_NTU":"0","pH":"9.17"}
+ERROR - 2025-05-06 17:49:08 --> Received Data: {"TDS_ppm":"2767.7","Turbidity_NTU":"0","pH":"4.47"}
+ERROR - 2025-05-06 17:49:51 --> Received Data: {"TDS_ppm":"2776.8","Turbidity_NTU":"0","pH":"1.65"}
+ERROR - 2025-05-06 17:49:58 --> Received Data: {"TDS_ppm":"2782.3","Turbidity_NTU":"0","pH":"6.34"}
+ERROR - 2025-05-06 17:50:05 --> Received Data: {"TDS_ppm":"2780.5","Turbidity_NTU":"0","pH":"10.16"}
+ERROR - 2025-05-06 17:50:12 --> Received Data: {"TDS_ppm":"2778.6","Turbidity_NTU":"0","pH":"11.49"}
+ERROR - 2025-05-06 17:50:20 --> Received Data: {"TDS_ppm":"2774.9","Turbidity_NTU":"0","pH":"11.25"}
+ERROR - 2025-05-06 17:50:27 --> Received Data: {"TDS_ppm":"2765.2","Turbidity_NTU":"0","pH":"9.42"}
+ERROR - 2025-05-06 17:50:34 --> Received Data: {"TDS_ppm":"2736.6","Turbidity_NTU":"0","pH":"7.6"}
+ERROR - 2025-05-06 17:50:42 --> Received Data: {"TDS_ppm":"2738.7","Turbidity_NTU":"0","pH":"5.77"}
+ERROR - 2025-05-06 17:50:49 --> Received Data: {"TDS_ppm":"2736.6","Turbidity_NTU":"0","pH":"5.47"}
+ERROR - 2025-05-06 17:50:56 --> Received Data: {"TDS_ppm":"2767.9","Turbidity_NTU":"0","pH":"5.57"}
+ERROR - 2025-05-06 17:51:04 --> Received Data: {"TDS_ppm":"2768","Turbidity_NTU":"0","pH":"5.71"}
+ERROR - 2025-05-06 17:51:11 --> Received Data: {"TDS_ppm":"2768.9","Turbidity_NTU":"0","pH":"5.79"}
+ERROR - 2025-05-06 17:51:18 --> Received Data: {"TDS_ppm":"2776","Turbidity_NTU":"0","pH":"5.84"}
+ERROR - 2025-05-06 17:51:25 --> Received Data: {"TDS_ppm":"2772.3","Turbidity_NTU":"0","pH":"5.85"}
+ERROR - 2025-05-06 17:51:33 --> Received Data: {"TDS_ppm":"2770.3","Turbidity_NTU":"0","pH":"5.85"}
+ERROR - 2025-05-06 17:51:40 --> Received Data: {"TDS_ppm":"2767.5","Turbidity_NTU":"0","pH":"5.83"}
+ERROR - 2025-05-06 17:51:47 --> Received Data: {"TDS_ppm":"2764.5","Turbidity_NTU":"0","pH":"5.83"}
+ERROR - 2025-05-06 17:51:54 --> Received Data: {"TDS_ppm":"2763.3","Turbidity_NTU":"0","pH":"5.83"}
+ERROR - 2025-05-06 17:52:02 --> Received Data: {"TDS_ppm":"2764.4","Turbidity_NTU":"0","pH":"5.84"}
+ERROR - 2025-05-06 17:52:09 --> Received Data: {"TDS_ppm":"2767.5","Turbidity_NTU":"0","pH":"5.86"}
+ERROR - 2025-05-06 17:52:16 --> Received Data: {"TDS_ppm":"2775.3","Turbidity_NTU":"0","pH":"5.85"}
+ERROR - 2025-05-06 17:52:23 --> Received Data: {"TDS_ppm":"2773.3","Turbidity_NTU":"0","pH":"5.84"}
+ERROR - 2025-05-06 17:52:31 --> Received Data: {"TDS_ppm":"2775.1","Turbidity_NTU":"0","pH":"5.85"}
+ERROR - 2025-05-06 17:52:38 --> Received Data: {"TDS_ppm":"2773","Turbidity_NTU":"0","pH":"5.84"}
+ERROR - 2025-05-06 17:52:46 --> Received Data: {"TDS_ppm":"2776.1","Turbidity_NTU":"0","pH":"5.82"}
+ERROR - 2025-05-06 17:52:53 --> Received Data: {"TDS_ppm":"2778.6","Turbidity_NTU":"0","pH":"5.66"}
+ERROR - 2025-05-06 17:53:01 --> Received Data: {"TDS_ppm":"2743.2","Turbidity_NTU":"0","pH":"5.5"}
+ERROR - 2025-05-06 17:53:08 --> Received Data: {"TDS_ppm":"2742.5","Turbidity_NTU":"0","pH":"5.48"}
+ERROR - 2025-05-06 17:53:15 --> Received Data: {"TDS_ppm":"2737.5","Turbidity_NTU":"0","pH":"5.57"}
+ERROR - 2025-05-06 17:53:23 --> Received Data: {"TDS_ppm":"2768.4","Turbidity_NTU":"0","pH":"5.75"}
+ERROR - 2025-05-06 17:53:30 --> Received Data: {"TDS_ppm":"2774.2","Turbidity_NTU":"0","pH":"5.86"}
+ERROR - 2025-05-06 17:53:37 --> Received Data: {"TDS_ppm":"2775.6","Turbidity_NTU":"0","pH":"5.86"}
+ERROR - 2025-05-06 17:53:44 --> Received Data: {"TDS_ppm":"2774","Turbidity_NTU":"0","pH":"5.86"}
+ERROR - 2025-05-06 17:53:52 --> Received Data: {"TDS_ppm":"2772.4","Turbidity_NTU":"0","pH":"6.07"}
+ERROR - 2025-05-06 17:53:59 --> Received Data: {"TDS_ppm":"2770.7","Turbidity_NTU":"0","pH":"6.27"}
+ERROR - 2025-05-06 17:54:06 --> Received Data: {"TDS_ppm":"2771.9","Turbidity_NTU":"0","pH":"6.45"}
+ERROR - 2025-05-06 17:54:13 --> Received Data: {"TDS_ppm":"2777.7","Turbidity_NTU":"0","pH":"6.51"}
+ERROR - 2025-05-06 17:54:20 --> Received Data: {"TDS_ppm":"2779.7","Turbidity_NTU":"0","pH":"6.5"}
+ERROR - 2025-05-06 17:54:27 --> Received Data: {"TDS_ppm":"2783.7","Turbidity_NTU":"0","pH":"6.62"}
+ERROR - 2025-05-06 17:54:34 --> Received Data: {"TDS_ppm":"2790.1","Turbidity_NTU":"0","pH":"6.68"}
+ERROR - 2025-05-06 17:54:42 --> Received Data: {"TDS_ppm":"2786.5","Turbidity_NTU":"0","pH":"6.72"}
+ERROR - 2025-05-06 17:54:49 --> Received Data: {"TDS_ppm":"2787.2","Turbidity_NTU":"0","pH":"6.73"}
+ERROR - 2025-05-06 17:54:57 --> Received Data: {"TDS_ppm":"2789.4","Turbidity_NTU":"0","pH":"6.66"}
+ERROR - 2025-05-06 17:55:04 --> Received Data: {"TDS_ppm":"2790.6","Turbidity_NTU":"0","pH":"6.68"}
+ERROR - 2025-05-06 17:55:11 --> Received Data: {"TDS_ppm":"2786","Turbidity_NTU":"0","pH":"6.74"}
+ERROR - 2025-05-06 17:55:19 --> Received Data: {"TDS_ppm":"2787.8","Turbidity_NTU":"0","pH":"6.87"}
+ERROR - 2025-05-06 17:55:26 --> Received Data: {"TDS_ppm":"2780.5","Turbidity_NTU":"0","pH":"7"}
+ERROR - 2025-05-06 17:55:33 --> Received Data: {"TDS_ppm":"2776.8","Turbidity_NTU":"0","pH":"7.1"}
+ERROR - 2025-05-06 17:55:41 --> Received Data: {"TDS_ppm":"2775.6","Turbidity_NTU":"0","pH":"7.1"}
+ERROR - 2025-05-06 17:55:49 --> Received Data: {"TDS_ppm":"2779.8","Turbidity_NTU":"0","pH":"7.06"}
+ERROR - 2025-05-06 17:55:56 --> Received Data: {"TDS_ppm":"2783.4","Turbidity_NTU":"0","pH":"7.04"}
+ERROR - 2025-05-06 17:56:03 --> Received Data: {"TDS_ppm":"2788","Turbidity_NTU":"0","pH":"7.04"}
+ERROR - 2025-05-06 17:56:11 --> Received Data: {"TDS_ppm":"2788","Turbidity_NTU":"0","pH":"7.04"}
+ERROR - 2025-05-06 17:56:18 --> Received Data: {"TDS_ppm":"2782","Turbidity_NTU":"0","pH":"7.02"}
+ERROR - 2025-05-06 17:56:25 --> Received Data: {"TDS_ppm":"2781.8","Turbidity_NTU":"0","pH":"6.97"}
+ERROR - 2025-05-06 17:56:32 --> Received Data: {"TDS_ppm":"2781.1","Turbidity_NTU":"0","pH":"6.93"}
+ERROR - 2025-05-06 17:56:40 --> Received Data: {"TDS_ppm":"2781.2","Turbidity_NTU":"0","pH":"6.84"}
+ERROR - 2025-05-06 17:56:47 --> Received Data: {"TDS_ppm":"2784.1","Turbidity_NTU":"0","pH":"6.87"}
+ERROR - 2025-05-06 17:56:54 --> Received Data: {"TDS_ppm":"2782.8","Turbidity_NTU":"0","pH":"6.99"}
+ERROR - 2025-05-06 17:57:01 --> Received Data: {"TDS_ppm":"2789.2","Turbidity_NTU":"0","pH":"7.13"}
+ERROR - 2025-05-06 17:57:09 --> Received Data: {"TDS_ppm":"2793.1","Turbidity_NTU":"0","pH":"7.18"}
+ERROR - 2025-05-06 17:57:16 --> Received Data: {"TDS_ppm":"2789","Turbidity_NTU":"0","pH":"7.28"}
+ERROR - 2025-05-06 17:57:23 --> Received Data: {"TDS_ppm":"2784.2","Turbidity_NTU":"0","pH":"7.09"}
+ERROR - 2025-05-06 17:57:31 --> Received Data: {"TDS_ppm":"2777.7","Turbidity_NTU":"0","pH":"6.94"}
+ERROR - 2025-05-06 17:57:38 --> Received Data: {"TDS_ppm":"2777.9","Turbidity_NTU":"0","pH":"6.79"}
+ERROR - 2025-05-06 17:57:45 --> Received Data: {"TDS_ppm":"2780","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 17:57:53 --> Received Data: {"TDS_ppm":"2779.5","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 17:58:00 --> Received Data: {"TDS_ppm":"2778.2","Turbidity_NTU":"0","pH":"6.69"}
+ERROR - 2025-05-06 17:58:08 --> Received Data: {"TDS_ppm":"2777.9","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 17:58:15 --> Received Data: {"TDS_ppm":"2775.8","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 17:58:22 --> Received Data: {"TDS_ppm":"2777.9","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 17:58:36 --> Received Data: {"TDS_ppm":"2767.5","Turbidity_NTU":"0","pH":"6.71"}
+ERROR - 2025-05-06 17:58:44 --> Received Data: {"TDS_ppm":"2787.8","Turbidity_NTU":"0","pH":"6.76"}
+ERROR - 2025-05-06 17:58:51 --> Received Data: {"TDS_ppm":"2789.4","Turbidity_NTU":"0","pH":"6.75"}
+ERROR - 2025-05-06 17:58:59 --> Received Data: {"TDS_ppm":"2788.5","Turbidity_NTU":"0","pH":"6.73"}
+ERROR - 2025-05-06 18:00:46 --> Received Data: {"TDS_ppm":"2450","Turbidity_NTU":"0","pH":"6.66"}
+ERROR - 2025-05-06 18:00:53 --> Received Data: {"TDS_ppm":"2699.8","Turbidity_NTU":"0","pH":"6.67"}
+ERROR - 2025-05-06 18:01:13 --> Received Data: {"TDS_ppm":"2783.4","Turbidity_NTU":"0","pH":"6.73"}
+ERROR - 2025-05-06 18:01:20 --> Received Data: {"TDS_ppm":"2781.2","Turbidity_NTU":"0","pH":"6.72"}
+ERROR - 2025-05-06 18:01:28 --> Received Data: {"TDS_ppm":"2787.3","Turbidity_NTU":"0","pH":"6.73"}
+ERROR - 2025-05-06 18:01:36 --> Received Data: {"TDS_ppm":"2789.2","Turbidity_NTU":"0","pH":"6.72"}
+ERROR - 2025-05-06 18:01:43 --> Received Data: {"TDS_ppm":"2787.8","Turbidity_NTU":"0","pH":"6.75"}
+ERROR - 2025-05-06 18:01:50 --> Received Data: {"TDS_ppm":"2787.4","Turbidity_NTU":"0","pH":"6.75"}
+ERROR - 2025-05-06 18:01:57 --> Received Data: {"TDS_ppm":"2786","Turbidity_NTU":"0","pH":"6.75"}
+ERROR - 2025-05-06 18:02:04 --> Received Data: {"TDS_ppm":"2785.5","Turbidity_NTU":"0","pH":"6.73"}
+ERROR - 2025-05-06 18:02:11 --> Received Data: {"TDS_ppm":"2788.7","Turbidity_NTU":"0","pH":"6.72"}
+ERROR - 2025-05-06 18:02:19 --> Received Data: {"TDS_ppm":"2788.7","Turbidity_NTU":"0","pH":"6.71"}
+ERROR - 2025-05-06 18:02:26 --> Received Data: {"TDS_ppm":"2790.8","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 18:02:33 --> Received Data: {"TDS_ppm":"2786","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 18:02:41 --> Received Data: {"TDS_ppm":"2785.8","Turbidity_NTU":"0","pH":"6.69"}
+ERROR - 2025-05-06 18:02:48 --> Received Data: {"TDS_ppm":"2787.4","Turbidity_NTU":"0","pH":"6.71"}
+ERROR - 2025-05-06 18:02:55 --> Received Data: {"TDS_ppm":"2784.6","Turbidity_NTU":"0","pH":"6.7"}
+ERROR - 2025-05-06 18:03:03 --> Received Data: {"TDS_ppm":"2783.7","Turbidity_NTU":"0","pH":"6.82"}
+ERROR - 2025-05-06 18:03:10 --> Received Data: {"TDS_ppm":"2786.2","Turbidity_NTU":"0","pH":"7"}
+ERROR - 2025-05-06 18:03:18 --> Received Data: {"TDS_ppm":"2787.6","Turbidity_NTU":"0","pH":"7.17"}
+ERROR - 2025-05-06 18:03:25 --> Received Data: {"TDS_ppm":"2792.6","Turbidity_NTU":"0","pH":"7.32"}
+ERROR - 2025-05-06 18:03:32 --> Received Data: {"TDS_ppm":"2792.4","Turbidity_NTU":"0","pH":"7.33"}
+ERROR - 2025-05-06 18:03:40 --> Received Data: {"TDS_ppm":"2792.9","Turbidity_NTU":"0","pH":"7.34"}
+ERROR - 2025-05-06 18:03:47 --> Received Data: {"TDS_ppm":"2792.5","Turbidity_NTU":"0","pH":"7.34"}
+ERROR - 2025-05-06 18:03:55 --> Received Data: {"TDS_ppm":"2794.5","Turbidity_NTU":"0","pH":"7.32"}
+ERROR - 2025-05-06 18:04:02 --> Received Data: {"TDS_ppm":"2796.6","Turbidity_NTU":"0","pH":"7.31"}
+ERROR - 2025-05-06 18:04:09 --> Received Data: {"TDS_ppm":"2790.1","Turbidity_NTU":"0","pH":"7.32"}
+ERROR - 2025-05-06 18:04:16 --> Received Data: {"TDS_ppm":"2790.1","Turbidity_NTU":"0","pH":"7.32"}
+ERROR - 2025-05-06 18:04:23 --> Received Data: {"TDS_ppm":"2787.4","Turbidity_NTU":"0","pH":"7.2"}
+ERROR - 2025-05-06 18:04:31 --> Received Data: {"TDS_ppm":"2787.8","Turbidity_NTU":"0","pH":"7.07"}
+ERROR - 2025-05-06 18:04:38 --> Received Data: {"TDS_ppm":"2785.3","Turbidity_NTU":"0","pH":"6.93"}
+ERROR - 2025-05-06 18:04:45 --> Received Data: {"TDS_ppm":"2784.6","Turbidity_NTU":"0","pH":"6.83"}
+ERROR - 2025-05-06 18:04:52 --> Received Data: {"TDS_ppm":"2784.8","Turbidity_NTU":"0","pH":"6.71"}
+ERROR - 2025-05-06 18:05:00 --> Received Data: {"TDS_ppm":"2779.5","Turbidity_NTU":"0","pH":"6.55"}
+ERROR - 2025-05-06 18:05:07 --> Received Data: {"TDS_ppm":"2780.2","Turbidity_NTU":"0","pH":"6.67"}
+ERROR - 2025-05-06 18:05:14 --> Received Data: {"TDS_ppm":"2785.3","Turbidity_NTU":"0","pH":"6.9"}
+ERROR - 2025-05-06 18:05:21 --> Received Data: {"TDS_ppm":"2786.9","Turbidity_NTU":"0","pH":"7.18"}
+ERROR - 2025-05-06 18:05:29 --> Received Data: {"TDS_ppm":"2780.9","Turbidity_NTU":"0","pH":"7.21"}
+ERROR - 2025-05-06 18:05:36 --> Received Data: {"TDS_ppm":"2780.9","Turbidity_NTU":"0","pH":"7.12"}
+ERROR - 2025-05-06 18:05:43 --> Received Data: {"TDS_ppm":"2781.8","Turbidity_NTU":"0","pH":"7.03"}
+ERROR - 2025-05-06 18:05:51 --> Received Data: {"TDS_ppm":"2782.5","Turbidity_NTU":"0","pH":"6.97"}
+ERROR - 2025-05-06 18:05:58 --> Received Data: {"TDS_ppm":"2781.8","Turbidity_NTU":"0","pH":"6.96"}
+ERROR - 2025-05-06 18:06:06 --> Received Data: {"TDS_ppm":"2782.3","Turbidity_NTU":"0","pH":"6.96"}
+ERROR - 2025-05-06 18:06:13 --> Received Data: {"TDS_ppm":"2790.1","Turbidity_NTU":"0","pH":"6.95"}
+ERROR - 2025-05-06 18:06:20 --> Received Data: {"TDS_ppm":"2789.2","Turbidity_NTU":"0","pH":"6.96"}
+ERROR - 2025-05-06 18:06:28 --> Received Data: {"TDS_ppm":"2787.1","Turbidity_NTU":"0","pH":"6.96"}
+ERROR - 2025-05-06 18:06:35 --> Received Data: {"TDS_ppm":"2780.2","Turbidity_NTU":"0","pH":"6.96"}
+ERROR - 2025-05-06 18:06:42 --> Received Data: {"TDS_ppm":"2778.1","Turbidity_NTU":"0","pH":"6.98"}
+ERROR - 2025-05-06 18:06:49 --> Received Data: {"TDS_ppm":"2778.8","Turbidity_NTU":"0","pH":"6.99"}
+ERROR - 2025-05-06 18:06:57 --> Received Data: {"TDS_ppm":"2784.2","Turbidity_NTU":"0","pH":"7.01"}
+ERROR - 2025-05-06 18:07:04 --> Received Data: {"TDS_ppm":"2787.1","Turbidity_NTU":"0","pH":"7.02"}
+ERROR - 2025-05-06 18:07:11 --> Received Data: {"TDS_ppm":"2786.7","Turbidity_NTU":"0","pH":"7.01"}
+ERROR - 2025-05-06 18:07:18 --> Received Data: {"TDS_ppm":"2784.2","Turbidity_NTU":"0","pH":"7.01"}
+ERROR - 2025-05-06 18:07:26 --> Received Data: {"TDS_ppm":"2786.2","Turbidity_NTU":"0","pH":"7.01"}
+ERROR - 2025-05-06 18:07:33 --> Received Data: {"TDS_ppm":"2787.4","Turbidity_NTU":"0","pH":"6.99"}
+ERROR - 2025-05-06 19:33:15 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 19:33:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 20:08:30 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 20:08:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 21:17:37 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 21:17:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-06 23:24:16 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-06 23:24:17 --> Gemini API Error: 22 : The requested URL returned error: 404 

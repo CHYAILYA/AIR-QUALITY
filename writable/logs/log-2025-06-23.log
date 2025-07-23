@@ -1,0 +1,106 @@
+CRITICAL - 2025-06-23 00:02:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-23 00:03:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-23 00:03:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-23 00:03:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-23 00:03:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-23 00:03:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-06-23 00:03:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/Chat/.php"
+[Method: GET, Route: admin/dashboard/chat]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(183): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->chatui()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-06-23 03:17:15 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 03:17:17 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:19 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:19 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:19 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:19 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:19 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 07:38:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 12:05:03 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 12:05:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 13:29:12 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 13:29:14 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 15:31:30 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 15:31:31 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 21:44:18 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 21:44:20 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 22:31:37 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 22:31:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 23:23:09 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-06-23 23:23:09 --> Gemini API Error: 22 : The requested URL returned error: 404 

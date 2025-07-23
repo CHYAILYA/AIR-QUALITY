@@ -1,0 +1,108 @@
+ERROR - 2025-04-19 18:51:38 --> mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /var/www/udara/system/Database/MySQLi/Connection.php:327
+Stack trace:
+#0 /var/www/udara/system/Database/MySQLi/Connection.php(327): mysqli->query()
+#1 /var/www/udara/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/udara/system/Database/BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/udara/app/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/udara/system/CodeIgniter.php(933): App\Controllers\Home->index()
+#5 /var/www/udara/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/udara/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/udara/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#8 /var/www/udara/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#9 /var/www/udara/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#10 {main}
+CRITICAL - 2025-04-19 18:51:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 692.
+ 1 APPPATH/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-19 18:51:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 332.
+ 1 SYSTEMPATH/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-19 18:51:38 --> [Caused by] mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 327.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(327): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-04-19 18:52:00 --> mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /var/www/udara/system/Database/MySQLi/Connection.php:327
+Stack trace:
+#0 /var/www/udara/system/Database/MySQLi/Connection.php(327): mysqli->query()
+#1 /var/www/udara/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/udara/system/Database/BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/udara/app/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/udara/system/CodeIgniter.php(933): App\Controllers\Home->index()
+#5 /var/www/udara/system/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/udara/system/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/udara/system/Boot.php(334): CodeIgniter\CodeIgniter->run()
+#8 /var/www/udara/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+#9 /var/www/udara/public/index.php(56): CodeIgniter\Boot::bootWeb()
+#10 {main}
+CRITICAL - 2025-04-19 18:52:00 --> CodeIgniter\Database\Exceptions\DatabaseException: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+[Method: GET, Route: /]
+in SYSTEMPATH/Database/BaseConnection.php on line 692.
+ 1 APPPATH/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-19 18:52:00 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 332.
+ 1 SYSTEMPATH/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute()
+ 2 SYSTEMPATH/Database/BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 3 APPPATH/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-19 18:52:00 --> [Caused by] mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'udara.histori_Aqi.aqi_pm25' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 327.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(327): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Controllers/Home.php(27): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-19 18:52:44 --> ErrorException: Undefined property: stdClass::$avg_sharp
+[Method: GET, Route: /]
+in APPPATH/Views/Dasboard.php on line 824.
+ 1 APPPATH/Views/Dasboard.php(824): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 [internal function]: CodeIgniter\View\View->{closure}()
+ 3 APPPATH/Views/Dasboard.php(825): array_map()
+ 4 SYSTEMPATH/View/View.php(224): include('/var/www/udara/app/Views/Dasboard.php')
+ 5 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Home.php(42): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

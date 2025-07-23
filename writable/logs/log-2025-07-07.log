@@ -1,0 +1,52 @@
+ERROR - 2025-07-07 04:03:35 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:35 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:37 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:38 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:03:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:48 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:48 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:49 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:50 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:52 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:53 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 04:48:54 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 05:44:47 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 05:44:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 05:57:36 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 05:57:37 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 06:29:00 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 06:29:00 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 11:37:32 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 11:37:32 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 12:49:24 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 12:49:24 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 16:12:33 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 16:12:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:46 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:47 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:51 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:51 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:52 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 17:52:52 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 18:09:52 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 18:09:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-07 18:09:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(230): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-07 18:09:53 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-07 18:09:53 --> Gemini API Error: 22 : The requested URL returned error: 404 

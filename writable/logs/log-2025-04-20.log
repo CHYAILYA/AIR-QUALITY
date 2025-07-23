@@ -1,0 +1,32 @@
+CRITICAL - 2025-04-20 13:03:51 --> ErrorException: Undefined property: stdClass::$aqi_pm25
+[Method: GET, Route: /]
+in APPPATH/Views/Dasboard.php on line 814.
+ 1 APPPATH/Views/Dasboard.php(814): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 [internal function]: CodeIgniter\View\View->{closure}()
+ 3 APPPATH/Views/Dasboard.php(815): array_map()
+ 4 SYSTEMPATH/View/View.php(224): include('/var/www/udara/app/Views/Dasboard.php')
+ 5 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Home.php(57): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-20 13:05:29 --> ErrorException: Undefined property: stdClass::$conc_pm25
+[Method: GET, Route: /]
+in APPPATH/Views/Dasboard.php on line 811.
+ 1 APPPATH/Views/Dasboard.php(811): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 [internal function]: CodeIgniter\View\View->{closure}()
+ 3 APPPATH/Views/Dasboard.php(812): array_map()
+ 4 SYSTEMPATH/View/View.php(224): include('/var/www/udara/app/Views/Dasboard.php')
+ 5 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Home.php(57): view()
+ 8 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->index()
+ 9 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+11 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+13 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

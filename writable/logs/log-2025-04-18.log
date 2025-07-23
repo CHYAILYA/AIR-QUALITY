@@ -1,0 +1,81 @@
+CRITICAL - 2025-04-18 05:56:42 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: analytics]
+in APPPATH/Controllers/Home.php on line 74.
+ 1 APPPATH/Controllers/Home.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(44): App\Controllers\Home->saveIspuHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->analytics()
+ 4 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-18 05:56:58 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: analytics]
+in APPPATH/Controllers/Home.php on line 74.
+ 1 APPPATH/Controllers/Home.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(44): App\Controllers\Home->saveIspuHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->analytics()
+ 4 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-18 05:56:59 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: analytics]
+in APPPATH/Controllers/Home.php on line 74.
+ 1 APPPATH/Controllers/Home.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(44): App\Controllers\Home->saveIspuHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->analytics()
+ 4 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-18 05:57:00 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: analytics]
+in APPPATH/Controllers/Home.php on line 74.
+ 1 APPPATH/Controllers/Home.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(44): App\Controllers\Home->saveIspuHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->analytics()
+ 4 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-18 05:57:31 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: analytics]
+in APPPATH/Controllers/Home.php on line 74.
+ 1 APPPATH/Controllers/Home.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(44): App\Controllers\Home->saveIspuHistory()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->analytics()
+ 4 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-18 05:58:44 --> ParseError: syntax error, unexpected token ","
+[Method: GET, Route: analytics]
+in APPPATH/Controllers/Home.php on line 76.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(885): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-04-18 05:59:31 --> ErrorException: Undefined variable $avg_ispu
+[Method: GET, Route: analytics]
+in APPPATH/Views/analytics.php on line 481.
+ 1 APPPATH/Views/analytics.php(481): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(224): include('/var/www/udara/app/Views/analytics.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(59): view()
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->analytics()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

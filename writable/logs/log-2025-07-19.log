@@ -1,0 +1,121 @@
+ERROR - 2025-07-19 04:23:09 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 04:23:09 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 10:50:47 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 10:50:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 11:07:43 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 11:07:44 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 11:46:49 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 11:46:49 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 13:27:23 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 13:27:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 14:57:52 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 14:57:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-19 15:02:23 --> ErrorException: Undefined property: App\Controllers\Home::$session
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 154.
+ 1 APPPATH/Controllers/Home.php(154): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->air()
+ 3 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-19 15:03:19 --> Error: Cannot call constructor
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-19 15:03:36 --> ErrorException: Undefined property: App\Controllers\Home::$load
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 10.
+ 1 APPPATH/Controllers/Home.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 3 SYSTEMPATH/CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-19 15:03:48 --> Error: Cannot call constructor
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 9.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-19 15:04:54 --> Error: Call to undefined method CodeIgniter\Session\Session::userdata()
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 158.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->air()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-19 15:04:56 --> Error: Call to undefined method CodeIgniter\Session\Session::userdata()
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 158.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->air()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-07-19 15:04:56 --> Error: Call to undefined method CodeIgniter\Session\Session::userdata()
+[Method: GET, Route: home/air]
+in APPPATH/Controllers/Home.php on line 158.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->air()
+ 2 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-19 15:05:55 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:05:55 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:07:14 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:07:14 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:08:56 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:08:57 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:08:57 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:08:58 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:10:25 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:10:25 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:11:38 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:11:39 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:12:04 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:12:04 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:13:33 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:13:34 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:13:38 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 15:13:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-19 15:13:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(230): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-07-19 17:05:15 --> API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-07-19 17:05:15 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-07-19 18:31:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "auth/register.php"
+[Method: GET, Route: register]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/AuthController.php(230): view()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\AuthController->showRegisterForm()
+ 5 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()

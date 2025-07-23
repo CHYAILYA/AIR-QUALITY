@@ -1,0 +1,139 @@
+CRITICAL - 2025-05-29 01:27:52 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: GET, Route: tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-05-29 01:27:53 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: GET, Route: tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-05-29 01:27:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: GET, Route: tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-05-29 01:27:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "hsqldb
+"
+[Method: GET, Route: hsqldb%0A]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-29 01:49:51 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 01:49:52 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 01:49:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 01:49:53 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 01:50:39 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 01:50:39 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 01:50:40 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 01:50:40 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 03:24:35 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 03:24:36 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 03:40:22 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 03:40:22 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 03:40:22 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 03:40:23 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 03:41:58 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 03:41:59 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 06:14:35 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 06:14:35 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 06:14:37 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 06:14:38 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 07:15:09 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 07:15:10 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-05-29 07:28:53 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "2xjRiKtqcTjf4spQgjX5aCuOwLE;.jsp"
+[Method: POST, Route: app/rest/users/id:1/tokens/2xjRiKtqcTjf4spQgjX5aCuOwLE;.jsp]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-29 07:38:32 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 07:38:33 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 07:38:46 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 07:38:48 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 07:55:15 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 07:55:16 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 08:17:57 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 08:17:57 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 08:28:45 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 08:28:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+CRITICAL - 2025-05-29 08:54:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: POST, Route: npm-pwg/..;/npm-admin/login.do]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-05-29 08:54:29 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..\src\getSettings.rsb"
+[Method: GET, Route: ui/..%5Csrc%5CgetSettings.rsb]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-05-29 08:54:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "cmd,"
+[Method: POST, Route: cmd,/simZysh/register_main/setCookie]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+CRITICAL - 2025-05-29 08:54:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "..;"
+[Method: GET, Route: npm-pwg/..;/axis2-AWC/services/listServices]
+in SYSTEMPATH/Router/Router.php on line 739.
+ 1 SYSTEMPATH/Router/Router.php(207): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH/CodeIgniter.php(832): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb()
+ERROR - 2025-05-29 08:54:46 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 08:54:47 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 09:18:49 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 09:18:50 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 09:43:07 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 09:43:07 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 11:41:49 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 11:41:50 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 13:21:02 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 13:21:03 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 15:37:07 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 15:37:08 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 18:02:45 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 18:02:46 --> Gemini API Error: 22 : The requested URL returned error: 404 
+ERROR - 2025-05-29 19:37:57 --> API Error: 22 : The requested URL returned error: 404 NOT FOUND
+ERROR - 2025-05-29 19:37:57 --> Gemini API Error: 22 : The requested URL returned error: 404 
