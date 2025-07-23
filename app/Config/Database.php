@@ -27,8 +27,8 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'udara',
-        'password'     => '@UdaraUnis2024',
+        'username'     => '',
+        'password'     => '',
         'database'     => 'udara',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
