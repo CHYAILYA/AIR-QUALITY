@@ -11,7 +11,7 @@ class Home extends BaseController
 // Ambil service session secara benar
         $this->session = \Config\Services::session();
         // Load API key from environment variable or config file
-        $this->geminiApiKey = getenv('GEMINI_API_KEY') ?: 'AIzaSyD651sbL63dIIdMe84peOZmcLxwoa46Mio';
+        $this->geminiApiKey = getenv('GEMINI_API_KEY') ?: '';
     }
 
     public function getRecommendation()
@@ -161,7 +161,7 @@ public function air()
     }
     return view('air');
 }
-    private $geminiApiKey = 'AIzaSyDB9tK0fjmgPiGrwpY5pnVEzKByvEHD7LY';
+    private $geminiApiKey = '';
     private function getGeminiRecommendations($aqiStatus, $aqiValue)
     {
         $cacheKey = 'gemini_recommendations_' . $aqiStatus;
