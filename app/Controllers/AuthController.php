@@ -353,8 +353,7 @@ public function chatui()
         ];
 
         $send_url = 'http://103.85.60.82:3001/api/sendText?apikey=m0h4mm4d';
-        $authorizedUser = 'ridwan';
-        $authorizedPass = 'm0h4mm4d';
+     
 
         try {
             $client = \Config\Services::curlrequest();
@@ -666,8 +665,7 @@ public function history(): ResponseInterface
 
         $payload_json = json_encode($payload);
 
-        $authorizedUser = 'ridwan';
-        $authorizedPass = 'm0h4mm4d';
+       
 
         $ch = curl_init('http://103.85.60.82:3001/api/sendText?apikey=m0h4mm4d');
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -739,8 +737,7 @@ public function history(): ResponseInterface
         // 3. Siapkan payload untuk API WhatsApp
         $whatsappApiUrl = 'http://103.85.60.82:3001/api/sendText?apikey=m0h4mm4d';
         $chatId = '120363417237285852@newsletter';
-        $authorizedUser = 'ridwan';
-        $authorizedPass = 'm0h4mm4d';
+
 
         $payload = [
             "chatId" => $chatId,
