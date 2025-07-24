@@ -35,8 +35,6 @@ ACCOUNT_CONFIGS = [
         "WHATSAPP_CHAT_ID": "120363419669386785@g.us", # Your primary WhatsApp group/chat ID
         "WHATSAPP_ADMIN_CHAT_ID": "6285966302755@c.us", # New: WhatsApp Admin Chat ID for custom offer notifications
         "WHATSAPP_API_URL": "http://103.85.60.82:3001/api/sendText?apikey=m0h4mm4d",
-        "WHATSAPP_AUTH_USER": "ridwan",
-        "WHATSAPP_AUTH_PASS": "m0h4mm4d"
   },
     {
         "USERNAME": "ahmadfikri820",
@@ -46,8 +44,7 @@ ACCOUNT_CONFIGS = [
         "WHATSAPP_CHAT_ID": "120363419669386785@g.us", # Your primary WhatsApp group/chat ID
         "WHATSAPP_ADMIN_CHAT_ID": "6285966302755@c.us", # New: WhatsApp Admin Chat ID for custom offer notifications
         "WHATSAPP_API_URL": "http://103.85.60.82:3001/api/sendText?apikey=m0h4mm4d",
-        "WHATSAPP_AUTH_USER": "ridwan",
-        "WHATSAPP_AUTH_PASS": "m0h4mm4d"
+
    }
 ]
 
@@ -58,7 +55,7 @@ ACCOUNT_CONFIGS = [
 
 # >>>>>>> YOU MUST REPLACE "YOUR_ACTUAL_GEMINI_API_KEY_HERE" WITH YOUR REAL GEMINI API KEY <<<<<<<
 # >>>>>>> OR, SET IT AS AN ENVIRONMENT VARIABLE NAMED GEMINI_API_KEY <<<<<<<
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyD651sbL63dIIdMe84peOZmcLxwoa46Mio")
+
 
 GEMINI_MODEL_NAME = "gemini-2.5-flash-preview-04-17"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL_NAME}:generateContent"
